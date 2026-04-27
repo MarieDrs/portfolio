@@ -1,5 +1,5 @@
 let currentPanel = 1;
-const totalPanels = 17;
+const totalPanels = 21;
 
 function changePanel(direction) {
     currentPanel += direction;
